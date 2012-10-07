@@ -1,0 +1,1 @@
+﻿package{	import flash.display.MovieClip;	import flash.display.Loader;		public class Thief extends MovieClip	{		public var xVelocity:Number;		public var yVelocity:Number;		public var healthState:String;		public var loader:Loader;							}}
